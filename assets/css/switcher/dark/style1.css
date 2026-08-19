@@ -869,9 +869,14 @@ text-transform: capitalize;
 	text-transform: capitalize;
 	font-weight: 500;
 	position: absolute;
-	top: 0%;
-	left: 0;
-	transform: rotate(320deg);
+	top: 73%;
+	left: 33%;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-ms-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
 }
 /*START COUNTER AREA*/
 .counter_feature {
@@ -879,14 +884,7 @@ text-transform: capitalize;
 	border-top: 1px solid #232434;
 }
 
-.single_counter{
-background:rgba(255,255,255,0.06);
-border-radius: 500px;
-display: inline-block;
-height: 200px;
-margin-bottom: 10px;
-position: relative;
-width: 200px;
+.single_counter{ background:rgba(255,255,255,0.06); border-radius: 500px 500px 0px 0px; display: inline-block; height: 200px; margin-bottom: 10px; position: relative; width: 200px; -webkit-border-radius: 500px 500px 0px 0px; -moz-border-radius: 500px 500px 0px 0px; -ms-border-radius: 500px 500px 0px 0px; -o-border-radius: 500px 500px 0px 0px;
 }
 .counter{position: relative;}
 .counter h2 {
@@ -895,14 +893,15 @@ border-radius: 500px;
 color: #232434;
 font-size: 36px;
 font-weight: 700;
-height: 120px;
+height: 100px;
 left: 50%;
-line-height: 120px;
+line-height: 100px;
 margin: auto;
 position: absolute;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 top: 50%;
 transform: translate(-50%, -50%);
-width: 120px;
+width: 100px;
 }
 .counter p {
 color: #fff;
