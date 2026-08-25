@@ -1214,7 +1214,7 @@
         }
         .testi_title h2 {
             font-weight: 700;
-            font-size: 60px;
+            font-size: 40px;
         }
         .testi_title p {
             color: #ffe06f;
@@ -1261,7 +1261,7 @@
             text-transform: capitalize;
         }
         .testimonial_content_two p {
-            font-size: 24px;
+            font-size: 16px;
             line-height: 34px;
         }
         .testi_name {
