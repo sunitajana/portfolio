@@ -581,33 +581,6 @@
             /* animation: glitchSkew 0.3s infinite; */
             cursor: default;
 }
-/* 
-        @keyframes glitchSkew {
-            0% {
-                transform: skew(0deg, 0deg);
-                text-shadow: 2px 0 #ff4d6d, -2px 0 #4d8eff;
-            }
-            20% {
-                transform: skew(2deg, 1deg);
-                text-shadow: -2px 1px #ff4d6d, 2px -1px #4d8eff;
-            }
-            40% {
-                transform: skew(-2deg, -0.5deg);
-                text-shadow: 3px 0 #ff4d6d, -1px 1px #4d8eff;
-            }
-            60% {
-                transform: skew(1deg, 0.5deg);
-                text-shadow: -1px -1px #ff4d6d, 2px 2px #4d8eff;
-            }
-            80% {
-                transform: skew(-1deg, 1deg);
-                text-shadow: 2px 1px #ff4d6d, -2px -1px #4d8eff;
-            }
-            100% {
-                transform: skew(0deg, 0deg);
-                text-shadow: 0px 0px #ff4d6d, 0px 0px #4d8eff;
-            }
-        } */
 
         .role-wrapper {
             margin: 1rem 0 1.5rem;
@@ -629,22 +602,12 @@
             color: transparent;
             font-weight: 700;
             position: relative;
-            animation: gradientFlow 3s ease infinite;
+            /* animation: gradientFlow 3s ease infinite; */
             border-right: 2px solid #9b7eff;
             padding-right: 8px;
             white-space: nowrap;
-        }
-        @keyframes gradientFlow {
-            0% {
-                background-position: 0% 50%;
-            }
-            50% {
-                background-position: 100% 50%;
-            }
-            100% {
-                background-position: 0% 50%;
-            }
-        }
+}
+      
 
         .description {
             max-width: 620px;
