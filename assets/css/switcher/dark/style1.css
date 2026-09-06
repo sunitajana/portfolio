@@ -1640,20 +1640,16 @@
             .site-logo a {
                 font-size: 32px;
             }
-
             .about_info h3 {
                 font-size: 30px;
                 line-height: 36px;
             }
-
             .section-title h1 {
                 font-size: 32px;
             }
-
             .single_service {
                 margin-bottom: 40px;
             }
-
             .port_img img {
                 width: 180px;
             }
@@ -1685,12 +1681,10 @@
             .testi_img img {
                 max-width: 300px;
             }
-
             .footer_grid {
                 grid-template-columns: repeat(2, 1fr);
                 gap: 30px;
             }
-
             .contact {
                 margin-right: 0px;
             }
@@ -1701,7 +1695,6 @@
             .contact_img img {
                 max-width: 300px;
             }
-
             .address_bg {
                 padding: 30px 20px;
             }
