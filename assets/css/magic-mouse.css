@@ -11,7 +11,8 @@ body #magicMouseCursor {
   transition: transform 0.07s, width 0.3s, height 0.3s;
   pointer-events: none; }
   body #magicMouseCursor.cursor-square {
-    border-radius: 0; }
+    border-radius: 0; 
+  }
 
 body #magicPointer { 
   height: 5px;
