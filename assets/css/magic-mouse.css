@@ -13,7 +13,7 @@ body #magicMouseCursor {
   body #magicMouseCursor.cursor-square {
     border-radius: 0; }
 
-body #magicPointer {
+body #magicPointer { 
   height: 5px;
   width: 5px;
   top: 0;

@@ -8,7 +8,7 @@ box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
 left: 0;
 position: fixed;
 top: 168px;
-width: 220px;
+width: 220px; 
 z-index: 9999;
 }
 #style-switcher div {
