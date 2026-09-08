@@ -262,7 +262,7 @@ url("./fonts/bootstrap-icons.woff?1fa40e8900654d2863d011707b9fb6f2") format("wof
 .bi-calendar-plus-fill::before { content: "\f1ee"; }
 .bi-calendar-plus::before { content: "\f1ef"; }
 .bi-calendar-range-fill::before { content: "\f1f0"; }
-.bi-calendar-range::before { content: "\f1f1"; }
+.bi-calendar-range::before { content: "\f1f1"; } 
 .bi-calendar-week-fill::before { content: "\f1f2"; } 
 .bi-calendar-week::before { content: "\f1f3"; }
 .bi-calendar-x-fill::before { content: "\f1f4"; }

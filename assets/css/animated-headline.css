@@ -6,7 +6,7 @@
   text-align: center;
 }
 .cd-title h1 {
-  font-size: 2.4rem;
+  font-size: 2.4rem; 
   font-weight: 700;
 }
 @media only screen and (min-width: 768px) {

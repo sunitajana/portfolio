@@ -4,7 +4,7 @@ body #magicMouseCursor {
   height: 50px;
   border: 2px solid #ffde67;
   background:none;
-  border-radius: 50%;
+  border-radius: 50%; 
   z-index: 9999;
   left: 0;
   top: 0;
