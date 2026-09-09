@@ -12,7 +12,7 @@ body #magicMouseCursor {
   pointer-events: none; }
   body #magicMouseCursor.cursor-square {
     border-radius: 0;  
-  }  
+  }   
  
 body #magicPointer { 
   height: 5px;
