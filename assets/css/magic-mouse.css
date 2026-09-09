@@ -7,7 +7,7 @@ body #magicMouseCursor {
   border-radius: 50%; 
   z-index: 9999;
   left: 0;
-  top: 0;
+  top: 0; 
   transition: transform 0.07s, width 0.3s, height 0.3s;
   pointer-events: none; }
   body #magicMouseCursor.cursor-square {
