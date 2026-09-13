@@ -2266,7 +2266,13 @@
                 right: 15px;
             }
         }
-
+@media only screen and (max-width: 518px) {
+    .counter p {
+        font-size: 13px;
+        top: 68%;
+        left: 41%;
+    }
+}
         /* --- Extra Small (max 400px) --- */
         @media only screen and (max-width: 400px) {
             .name-glitch {
