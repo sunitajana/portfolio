@@ -2177,9 +2177,9 @@
                 line-height: 60px;
             }
             .counter p {
-                font-size: 11px;
+                font-size: 12px;
                 top: 68%;
-                left: 22%;
+                left: 42%;
             }
 
             .port_content h2 a {
@@ -2266,7 +2266,7 @@
                 right: 15px;
             }
         }
-@media only screen and (max-width: 518px) {
+@media only screen and (max-width: 517px) {
     .counter p {
         font-size: 13px;
         top: 68%;
@@ -2314,8 +2314,8 @@
             }
 
             .single_counter {
-                height: 100px;
-                width: 100px;
+                height: 120px;
+                width: 120px;
             }
             .counter h2 {
                 height: 50px;
@@ -2324,9 +2324,9 @@
                 line-height: 50px;
             }
             .counter p {
-                font-size: 10px;
+                font-size: 12px;
                 top: 65%;
-                left: 18%;
+                left: 40%;
             }
 
             .testi_title h2 {
