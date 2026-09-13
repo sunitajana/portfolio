@@ -1565,6 +1565,13 @@
             background: #d4c4a8;
         }
 
+
+        .testi_img img{
+        display: flex;
+        align-items: center;
+        justify-content: start;
+            height: 550px;
+        }
         /* ============================================================
                    RESPONSIVE – ALL DEVICES
                    ============================================================ */
@@ -1625,7 +1632,7 @@
         }
 
         /* --- Tablet (max 991px) --- */
-        @media only screen and (max-width: 991px) {
+        @media only screen and (max-width: 992px) {
             #main-menu ul li {
                 margin-left: 9px;
             }
@@ -1676,10 +1683,10 @@
             }
             .testi_img {
                 text-align: center;
+                display: flex;
+        align-items: center;
+        justify-content: center;
                 margin-bottom: 30px;
-            }
-            .testi_img img {
-                max-width: 300px;
             }
             .footer_grid {
                 grid-template-columns: repeat(2, 1fr);
@@ -1905,9 +1912,8 @@
             .scroll-indicator span {
                 font-size: 0.6rem;
             }
-
             .testi_img img {
-                max-width: 200px;
+                 height: 400px;
                 margin: 0 auto;
                 display: block;
             }
@@ -1924,7 +1930,13 @@
             .section-title h1 {
                 font-size: 28px;
             }
-
+.testi_img img {
+        height: auto;
+        margin: 0 auto;
+        display: block;
+        width: 100% !important;
+    }
+    
             .about_info h3 {
                 font-size: 26px;
                 line-height: 32px;
@@ -2197,9 +2209,6 @@
             .testi_name {
                 font-size: 18px;
                 margin-top: 20px;
-            }
-            .testi_img img {
-                max-width: 150px;
             }
 
             .single_blog h2 {
