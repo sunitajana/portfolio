@@ -1423,7 +1423,7 @@
             transition: 0.4s;
         }
         .footer_link:hover {
-            color: #00f3ff;
+            color: #ffe06f;
             padding-left: 10px;
         }
         .footer_socials {
@@ -1446,7 +1446,7 @@
             text-decoration: none !important;
         }
         .footer_social:hover {
-            background: #00f3ff;
+            background: #ffe06f;
             color: #0a0a2a;
             transform: translateY(-5px);
             box-shadow: 0 10px 25px rgba(0, 243, 255, 0.3);
@@ -1466,7 +1466,7 @@
         }
         .footer_btn {
             padding: 12px 18px;
-            background: #00f3ff;
+            background: #ffe06f;
             border: none;
             color: #0a0a2a;
             border-radius: 5px;
