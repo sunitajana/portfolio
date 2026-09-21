@@ -1449,8 +1449,12 @@
             background: #ffe06f;
             color: #0a0a2a;
             transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 243, 255, 0.3);
-        }
+            box-shadow: 0 10px 25px #ffe06f69;
+            -webkit-transform: translateY(-5px);
+            -moz-transform: translateY(-5px);
+            -ms-transform: translateY(-5px);
+            -o-transform: translateY(-5px);
+}
         .footer_newsletter {
             display: flex;
             gap: 10px;
