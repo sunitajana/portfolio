@@ -1441,7 +1441,7 @@
             align-items: center;
             justify-content: center;
             color: #ffffff;
-            border: 1px solid rgba(0, 243, 255, 0.2);
+            border: 1px solid #ffe06f;
             transition: 0.4s;
             text-decoration: none !important;
         }
@@ -1464,7 +1464,7 @@
             flex: 1;
             padding: 12px;
             background: rgba(255, 255, 255, 0.07);
-            border: 1px solid rgba(0, 243, 255, 0.3);
+            border: 1px solid #ffe06f;;
             border-radius: 5px;
             color: #ffffff;
         }
